@@ -1,0 +1,14 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>ADDINPRUEBA1</Name>
+        <Assembly>ADDINPRUEBA1\ADDINPRUEBA1.dll</Assembly>
+        <AddInId>E9799FA5-4F72-464A-BBDC-008027220374</AddInId>
+        <FullClassName>ADDINPRUEBA1.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>ADDINPRUEBA1</ContextName>
+    </ManifestSettings>
+</RevitAddIns>

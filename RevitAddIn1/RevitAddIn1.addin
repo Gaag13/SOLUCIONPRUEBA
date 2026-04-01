@@ -1,0 +1,14 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>RevitAddIn1</Name>
+        <Assembly>RevitAddIn1\RevitAddIn1.dll</Assembly>
+        <AddInId>6D059805-33A8-4A20-B8C6-2059D35D3F55</AddInId>
+        <FullClassName>RevitAddIn1.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>RevitAddIn1</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
