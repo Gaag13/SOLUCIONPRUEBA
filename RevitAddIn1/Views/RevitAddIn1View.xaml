@@ -14,7 +14,7 @@
     Width="800">
     <Grid>
         <TextBlock
-            Text="RevitAddIn1"
+            Text="Hola mundo"
             FontSize="60"
             VerticalAlignment="Center"
             HorizontalAlignment="Center" />

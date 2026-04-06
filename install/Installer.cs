@@ -3,8 +3,8 @@ using WixSharp;
 using WixSharp.CommonTasks;
 using WixSharp.Controls;
 
-const string outputName = "SOLUCIONPRUEBA";
-const string projectName = "SOLUCIONPRUEBA";
+const string outputName = "ADDINPRUEBA1";
+const string projectName = "ADDINPRUEBA1";
 
 var versioning = Versioning.CreateFromVersionStringAsync(args[0]);
 var project = new Project
